@@ -58,3 +58,5 @@ QTextEdit.clear()							# 清空内容
 > 关于使用QTextEdit作为显示小部件的所有信息也适用于此处。<br />
 > 通过setFontItalic()，setFontWeight()，setFontUnderline()，setFontFamily()，setFontPointSize()，setTextColor()和setCurrentFont()设置当前字符格式的属性。<br />
 > 当前段落的对齐方式使用setAlignment()进行设置。
+
+> 可供参考资料 [QTextEdit的使用](https://www.wengbi.com/thread_72891_1.html)

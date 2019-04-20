@@ -12,7 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="810">
+                <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +72,7 @@
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/Info_QSpinBox_QSlider.md" />
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/UI_QDemo_001_基本使用.py" />
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/UI_QDemo_002_注册界面.py" />
+        <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md" />
       </list>
     </option>
   </component>
@@ -85,7 +99,13 @@
             <path>
               <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_QWidget_Window" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_常用控件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_常用控件" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_002_QLineEdit_QTextEdit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,16 +282,18 @@
       <updated>1555745291892</updated>
       <workItem from="1555745293127" duration="19145000" />
       <workItem from="1555770576581" duration="2888000" />
+      <workItem from="1555773597588" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22033000" />
+    <option name="totallyTimeSpent" value="22092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,16 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="615">
-            <caret line="56" selection-start-line="56" selection-end-line="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/UI_QLed_002_简易文本编辑器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-336">
@@ -555,6 +567,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="810">
+            <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
