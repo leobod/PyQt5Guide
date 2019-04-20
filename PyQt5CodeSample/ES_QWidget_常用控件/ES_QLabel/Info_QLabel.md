@@ -1,0 +1,30 @@
+# Qlabel常用方法
+## 方法	描述
++ setAlignment()	
+    + 按固定值方式对齐文本
+        + Qt.AlignLeft：水平方向靠左对齐
+        + Qt.AlignRight:水平方向靠右对齐
+        + Qt.AlignCenter：水平方向居中对齐
+        + Qt.AlignJustify：水平方向调整间距两端对齐
+        + Qt.AlignTop：垂直方向靠上对齐
+        + Qt.AlignBottom：垂直方向靠下对齐
+        + Qt.AlignVCenter：垂直方向居中对齐
++ serIndent()	
+    + 设置文本缩进值
++ setPixmap()	
+    + 设置QLabel为一个Pixmap图片
++ text()	
+    + 获得Qlabel的文本内容
++ setText()	
+    + 设置Qlabel的文本内容
++ selectedText()	
+    + 返回所选择的字符
++ setBuddy()	
+    + 设置QLabel的助记符及buddy（伙伴），及使用Qlabel设置快捷键，会在快捷键后将焦点设置到其buddy上，这里用到了Qlabel的交互控件功能 ，此外，buddy可以是任何一个widget控件，使用setBuddy(QWidget*)设置，其Qlabel必须是文本内容，并且使用“&”符号设置了助记符
++ setWordWrap()	
+    + 设置是否允许换行
+## Qlabel类中的常用信号
++ linkActiveted
+    + 当单击标签中的超链接，希望在新窗口打开这个超链接时，setOpenExternalLinks特性必须设置为True，即setOpenExternalLinks（True）
++ linkHovered
+    + 当鼠标指针滑过标签中嵌入的超链接时，需要用槽函数与这个信号进行绑定
