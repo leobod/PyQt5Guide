@@ -12,20 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="810">
-                <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +60,7 @@
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/UI_QDemo_001_基本使用.py" />
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/UI_QDemo_002_注册界面.py" />
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md" />
+        <option value="$PROJECT_DIR$/ES_QWidget_Table/QTable将会用到的参考资料.md" />
       </list>
     </option>
   </component>
@@ -99,13 +87,7 @@
             <path>
               <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_QWidget_常用控件" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_QWidget_常用控件" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_002_QLineEdit_QTextEdit" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_Table" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,16 +264,15 @@
       <updated>1555745291892</updated>
       <workItem from="1555745293127" duration="19145000" />
       <workItem from="1555770576581" duration="2888000" />
-      <workItem from="1555773597588" duration="59000" />
+      <workItem from="1555773597588" duration="313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22092000" />
+    <option name="totallyTimeSpent" value="22346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -576,6 +557,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="810">
             <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES_QWidget_Table/QTable将会用到的参考资料.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="33" selection-start-column="33" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
