@@ -14,12 +14,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_002_自定义界面2.py">
+        <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget/UI_MainWin_001_基本使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <state relative-caret-position="24">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
               <folding>
-                <element signature="e#78#134#0" expanded="true" />
+                <element signature="e#82#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,10 +75,11 @@
         <option value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_002_QLineEdit_QTextEdit/Info_QLineEdit.md" />
         <option value="$PROJECT_DIR$/ES_QWidget_Table/QTable将会用到的参考资料.md" />
         <option value="$PROJECT_DIR$/ES_QWidget_Draw/ES_10_01_QPattern/UI_Draw_001_RGB颜色获取.py" />
-        <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/Info_Win.md" />
         <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_001_简单的使用.py" />
         <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_002_自定义界面.py" />
         <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_002_自定义界面2.py" />
+        <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/Info_Win.md" />
+        <option value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget/UI_MainWin_001_基本使用.py" />
       </list>
     </option>
   </component>
@@ -116,12 +117,6 @@
               <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
               <item name="ES_QWidget_02_对话框" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_QWidget_02_对话框" type="462c0819:PsiDirectoryNode" />
-              <item name="ES_02_01_QWidget" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.UI_Win_002_自定义界面2">
+  <component name="RunManager" selected="Python.UI_MainWin_001_基本使用">
     <configuration name="UI_Draw_001_RGB颜色获取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQt5CodeSample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UI_QDemo_002_注册界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="UI_MainWin_001_基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQt5CodeSample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider/UI_QDemo_002_注册界面.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget/UI_MainWin_001_基本使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.UI_MainWin_001_基本使用" />
         <item itemvalue="Python.UI_Win_002_自定义界面2" />
         <item itemvalue="Python.UI_Win_002_自定义界面" />
         <item itemvalue="Python.UI_Win_001_简单的使用" />
         <item itemvalue="Python.UI_Draw_001_RGB颜色获取" />
-        <item itemvalue="Python.UI_QDemo_002_注册界面" />
       </list>
     </recent_temporary>
   </component>
@@ -303,12 +298,12 @@
       <workItem from="1555745293127" duration="19145000" />
       <workItem from="1555770576581" duration="2888000" />
       <workItem from="1555773597588" duration="313000" />
-      <workItem from="1555810480757" duration="8319000" />
+      <workItem from="1555810480757" duration="11525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30665000" />
+    <option name="totallyTimeSpent" value="33871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -373,6 +368,7 @@
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QLabel_005_.coverage" NAME="UI_QLabel_005_超链接制作 Coverage Results" MODIFIED="1555752348751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_Base/ES_QLabel" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QBtn_002_.coverage" NAME="UI_QBtn_002_登录窗格 Coverage Results" MODIFIED="1555770195043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QPushButton_QRadioButton_QComboBox" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QLabel_004_.coverage" NAME="UI_QLabel_004_设置边框 Coverage Results" MODIFIED="1555751949232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_Base/ES_QLabel" />
+    <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_MainWin_001_.coverage" NAME="UI_MainWin_001_基本使用 Coverage Results" MODIFIED="1555825516310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QLabel_003_.coverage" NAME="UI_QLabel_003_自适应图片 Coverage Results" MODIFIED="1555751204480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_Base/ES_QLabel" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QDemo_002_.coverage" NAME="UI_QDemo_002_注册界面 Coverage Results" MODIFIED="1555772711673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QSpinBox_QSlider" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QLed_001_.coverage" NAME="UI_QLed_001_基本使用 Coverage Results" MODIFIED="1555754798113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QLineEdit_QTextEdit" />
@@ -383,7 +379,7 @@
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_Draw_001_RGB.coverage" NAME="UI_Draw_001_RGB颜色获取 Coverage Results" MODIFIED="1555813032760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_Draw/ES_10_01_QPattern" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QLabel_001.coverage" NAME="UI_QLabel_001 Coverage Results" MODIFIED="1555750711080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_Base/ES_QLabel" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_Win_002_.coverage" NAME="UI_Win_002_自定义界面 Coverage Results" MODIFIED="1555820890298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget" />
-    <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_Win_002_2.coverage" NAME="UI_Win_002_自定义界面2 Coverage Results" MODIFIED="1555821955973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget" />
+    <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_Win_002_2.coverage" NAME="UI_Win_002_自定义界面2 Coverage Results" MODIFIED="1555823806150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget" />
     <SUITE FILE_PATH="coverage/PyQt5CodeSample$UI_QBtn_001_.coverage" NAME="UI_QBtn_001_基本使用 Coverage Results" MODIFIED="1555771125590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ES_QWidget_常用控件/ES_QPushButton_QRadioButton_QComboBox" />
   </component>
   <component name="editorHistoryManager">
@@ -625,26 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/Info_Win.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="37" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_001_简单的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="34" column="52" lean-forward="true" selection-end-line="61" selection-end-column="25" />
-          <folding>
-            <element signature="e#85#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_002_自定义界面.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -661,6 +637,36 @@
           <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
           <folding>
             <element signature="e#78#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_01_QWidget/UI_Win_001_简单的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="e#85#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/Info_Win.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-48">
+            <caret line="57" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES_QWidget_02_对话框/ES_02_02_QMainWidget/UI_MainWin_001_基本使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#82#149#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -25,6 +25,38 @@ self.setWindowOpacity(float_op)  # 值取 0.0-1.0
 #           + Qt.WindowMinMaxButtonsHint: // 显示最小化按钮和最大化按钮
 #           + Qt.WindowCloseButtonHint: // 显示关闭按钮
 ```
+# QMainWindow
+```python
+self.statusBar().showMessage("Ready")
+
+# 中间内容控件
+self.setCentralWidget(contentWidget)
+
+# 动作项写法
+exitAction = QAction('&Exit', self)
+exitAction.setShortcut('Ctrl+q')
+exitAction.setStatusTip('Exit app')
+exitAction.triggered.connect(QCoreApplication.instance().quit)
+
+# 菜单栏
+menubar = self.menuBar()
+# 添加子菜单
+menubar_next = menubar.addMenu('&File')
+# 添加动作项
+menubar_next.addAction(exitAction)
+
+# 工具栏
+self.toolbar = self.addToolBar('Exit')
+# 添加Action
+self.toolbar.addAction(QAction('&Exit', self))
+
+# 状态栏
+self.statusBar()
+# 状态栏提示
+self.lbl = QLabel("Hello,World!")
+self.lbl.setStatusTip("Hello")
+
+```
 
 # QDialog 对话框
 
