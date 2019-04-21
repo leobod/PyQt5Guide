@@ -30,6 +30,10 @@ columnCount()
 
 resizeColumnsToContents()
 resizeRowsToContents()
+
+sortItems(column, orderType)
+			# Qt.DescendingOrder		# 降序
+    		# Qt.AscendingOrder			# 升序
 ```
 
 ### 案例代码1

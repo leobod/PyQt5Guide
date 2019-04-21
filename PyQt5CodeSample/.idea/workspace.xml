@@ -12,7 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ES_QWidget_04_高级控件/ES_QWidget_Table/Info_Table.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="333">
+                <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+                <folding>
+                  <element signature="e#0#29#0" expanded="true" />
+                  <element signature="e#0#29#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,11 +109,21 @@
               <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_04_高级控件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQt5CodeSample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQt5CodeSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_04_高级控件" type="462c0819:PsiDirectoryNode" />
+              <item name="ES_QWidget_Table" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,16 +300,17 @@
       <workItem from="1555770576581" duration="2888000" />
       <workItem from="1555773597588" duration="313000" />
       <workItem from="1555810480757" duration="13967000" />
+      <workItem from="1555854689408" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36313000" />
+    <option name="totallyTimeSpent" value="36345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -654,9 +683,10 @@
     <entry file="file://$PROJECT_DIR$/ES_QWidget_04_高级控件/ES_QWidget_Table/Info_Table.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="213">
-            <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <first_editor relative-caret-position="333">
+            <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
             <folding>
+              <element signature="e#0#29#0" expanded="true" />
               <element signature="e#0#29#0" expanded="true" />
             </folding>
           </first_editor>
