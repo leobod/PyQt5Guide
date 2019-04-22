@@ -36,11 +36,18 @@ class Demo_TabelView(QWidget):
         # 设置选中方式
         self.view.setSelectionBehavior(QAbstractItemView.SelectRows)
 
+        # 获取点击处于哪一行
+        self.view.clicked.connect(self.test)
+
+
     def initLayout(self):
         contentLayout = QVBoxLayout()
         contentLayout.addWidget(self.view)
 
         self.setLayout(contentLayout)
+
+    def test(self):
+        print(self.view.currentIndex().row())
 
 
 from PyQt5.QtWidgets import QApplication
